@@ -1,4 +1,4 @@
-# Grade Calculator - Day 2 AI-Training-Assignments
+# Grade Calculator - Day 2 AI-Training-Assignment
 
 A clean, terminal-based Python application that converts a numerical mark (0-100) into a letter grade. Built using pure Python as part of the Day 2 AI Assignment.
 
